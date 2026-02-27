@@ -1,4 +1,4 @@
-package org.tns.capgemini.c2tc.exceptionhandlingdemo;
+package org.tns.acc.c2tc.exceptionhandlingdemo;
 import java.io.IOException;
 
 public class ThrowsDemo {

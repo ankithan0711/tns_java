@@ -1,4 +1,4 @@
-package org.tns.capgemini.c2tc.exceptionhandlingdemo;
+package org.tns.acc.c2tc.exceptionhandlingdemo;
 
 public class ErrorsDemo {
 	public static void main(String[] args) {
