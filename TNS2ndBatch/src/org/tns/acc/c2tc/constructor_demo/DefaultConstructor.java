@@ -16,6 +16,7 @@ Myclass1()
 	Brand="xyz";
 }
 }
+//updated
 public class DefaultConstructor {
 	public static void main(String[] args) {
 		Myclass1 obj=new Myclass1();
