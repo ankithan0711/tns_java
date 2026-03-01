@@ -29,7 +29,7 @@ public class ArrayOfObject {
 		for (Book book:books) {
 		book.display();
 		}
-
+		// updated
 	}
 
 }
