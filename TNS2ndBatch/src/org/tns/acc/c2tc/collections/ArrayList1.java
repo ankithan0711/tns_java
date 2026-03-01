@@ -26,7 +26,7 @@ public class ArrayList1 {
 		System.out.println(fruit);
 		
 		}
-		
+		//update
 			fruits.clear();
 			System.out.println("list cleared no of fruits " + fruits.size());
 			System.out.println(fruits);
