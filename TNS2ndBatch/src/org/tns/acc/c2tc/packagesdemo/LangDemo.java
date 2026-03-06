@@ -1,4 +1,4 @@
-package org.tnsif.acc.c2tc.packagesdemo;
+package org.tns.acc.c2tc.packagesdemo;
 
 public class LangDemo {
 public static void main(String[] args) {

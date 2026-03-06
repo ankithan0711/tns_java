@@ -1,4 +1,4 @@
-package org.tnsif.acc.c2tc.finalkeyworddemo;
+package org.tns.acc.c2tc.finalkeyworddemo;
 
 class calc
 {

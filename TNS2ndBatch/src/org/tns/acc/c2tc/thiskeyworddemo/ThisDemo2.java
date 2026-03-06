@@ -1,4 +1,4 @@
-package org.tnsif.acc.c2tc.thiskeyworddemo;
+package org.tns.acc.c2tc.thiskeyworddemo;
 
 class Product {
     double price;
