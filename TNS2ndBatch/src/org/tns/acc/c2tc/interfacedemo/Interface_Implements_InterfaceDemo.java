@@ -1,4 +1,4 @@
-package org.tnsif.acc.c2tc.interfacedemo;
+package org.tns.acc.c2tc.interfacedemo;
 
 interface Vehicle7
 {

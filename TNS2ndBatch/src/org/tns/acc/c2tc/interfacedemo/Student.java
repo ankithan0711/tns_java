@@ -1,4 +1,4 @@
-package org.tnsif.acc.c2tc.interfacedemo;
+package org.tns.acc.c2tc.interfacedemo;
 
 public class Student  {
 	private int id;

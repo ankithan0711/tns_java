@@ -1,4 +1,4 @@
-package org.tnsif.acc.c2tc.interfacedemo;
+package org.tns.acc.c2tc.interfacedemo;
 @FunctionalInterface
 interface InterfaceDemo2
 {
